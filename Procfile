@@ -1,0 +1,1 @@
+web: gunicorn on-a-plate.wsgi
